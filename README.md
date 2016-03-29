@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Intro
 Camus is LinkedIn's [Kafka](http://kafka.apache.org "Kafka")->HDFS pipeline. It is a mapreduce job that does distributed data loads out of Kafka. It includes the following features:
 
@@ -127,3 +128,6 @@ usage: hadoop jar camus-example-<version>-SNAPSHOT.jar com.linkedin.camus.etl.ka
  -P <arg>              external properties filename<br/>
  -p <arg>              properties filename from the classpath<br/>
 ```
+=======
+# camus
+>>>>>>> 0070a771bf334b77c9d42194b186263de50f44da
